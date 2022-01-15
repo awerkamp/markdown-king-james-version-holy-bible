@@ -1,3 +1,8 @@
-Each verse has a H2 heading so they can be referenced via Wikilinks in an application like Obsidian. Example: [[John 03#16]]
+Files are written lowercase in an API like format for faster opening and linking (matthew.01)
 
-Blockquotes could be used to write comments directly after a verse by using the markdown > symbol  
+Folders are numbered in order to enable using file navigation for sequential reading (01 Matthew, 02 Mark, 03 Luke, ...)
+- An application like Obsidian can star a file and a reader can update that star as they read sequentially
+
+Each verse has a H2 heading so they can be cross-referenced via Wikilinks in an application like Obsidian [[john.03#5]]
+
+Blockquotes can be used to write comments directly after a verse by using the markdown > symbol
