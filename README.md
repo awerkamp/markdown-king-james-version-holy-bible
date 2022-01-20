@@ -11,4 +11,4 @@ Visual Studio Code's Find and Replace is an efficient way to change file content
 - https://docs.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2022
 
 Write a script or use a name changing application like namechanger for the mac to change file names
-https://mrrsoftware.com/namechanger/
+- https://mrrsoftware.com/namechanger/
