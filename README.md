@@ -1,4 +1,4 @@
-Files are written lowercase in an API like format for faster opening and linking (matthew01)
+Files are written lowercase with the chapter following for fast opening and linking (matthew01)
 
 Folders are numbered in order to enable using file navigation for sequential reading (01 Matthew, 02 Mark, 03 Luke, ...)
 - An application like Obsidian can star a file and a reader can update that star as they read sequentially
